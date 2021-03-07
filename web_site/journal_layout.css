@@ -1,0 +1,30 @@
+.green{
+	border: 10px white solid;
+	background: white;
+	margin-right:10%;
+	margin-left:10%;
+
+}
+.red{
+	background: #A8F0F0;
+	text-align: right;
+}
+#orangeHeader{
+	font-size: 14pt;
+}
+.blue{
+	border: 4px #C2E9E9 solid;
+	background: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+}
+.Content{
+	
+	background-image: url('images/spatula.gif');
+}
+img{
+	float:right;
+}
+#newLine{
+	clear:both;
+}
